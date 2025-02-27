@@ -1,8 +1,21 @@
-# React + Vite
+# VeMan - Vehicle Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+VeMan is a simple React-based application for managing vehicle and user details. It features a clean and responsive form with two sections: **Vehicle Details** and **User Details**.
 
-Currently, two official plugins are available:
+## Features
+- Header with the name "VeMan".
+- Two-column layout:
+  - Left column: Vehicle details (e.g., Vehicle Make, Vehicle Model, License Plate Number).
+  - Right column: User details (e.g., First Name, Last Name, Email, Phone Number).
+- Stylish design using `mdb-react-ui-kit`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/) - Fast build tool for modern web development.
+- [MDB React UI Kit](https://mdbootstrap.com/docs/react/) - For styling and components.
+
+## Getting Started
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
